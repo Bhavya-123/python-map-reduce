@@ -35,7 +35,7 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ```
 
-Updated command to run the script is **cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py **
+Updated command to run the script is **cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py 
 
 ## References
 
