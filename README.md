@@ -43,5 +43,5 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ## Repository
 
-- [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
+- [https://github.com/denisecase/python-map-reduce](https://github.com/Bhavya-123/python-map-reduce)
 
